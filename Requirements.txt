@@ -1,0 +1,8 @@
+Observações:
+
+- A entrada de dados do vetor_pomar deve ter os números separados somente por vírgulas.
+- Utilizei o Visual Studio Code para desenvolver a aplicação frontend(Vue.js) e backend(Python + Flask).
+- Url base do frontend: http://127.0.0.1:8080/.
+- Url base do backend: http://127.0.0.1:5000/.
+- As colunas de número de maçãs possuem os seus respectivos números associados as suas respectivas posições das árvores coletadas por cada participante.
+- As posições das árvores começam a ser contadas a partir da posição 0.
